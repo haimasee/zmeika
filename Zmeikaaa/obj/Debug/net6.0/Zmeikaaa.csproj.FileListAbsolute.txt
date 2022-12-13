@@ -1,0 +1,15 @@
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\bin\Debug\net6.0\Zmeikaaa.exe
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\bin\Debug\net6.0\Zmeikaaa.deps.json
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\bin\Debug\net6.0\Zmeikaaa.runtimeconfig.json
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\bin\Debug\net6.0\Zmeikaaa.dll
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\bin\Debug\net6.0\Zmeikaaa.pdb
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.csproj.AssemblyReference.cache
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.AssemblyInfoInputs.cache
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.AssemblyInfo.cs
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.csproj.CoreCompileInputs.cache
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.dll
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\refint\Zmeikaaa.dll
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.pdb
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\Zmeikaaa.genruntimeconfig.cache
+C:\Users\hreno\source\repos\Zmeikaaa\Zmeikaaa\obj\Debug\net6.0\ref\Zmeikaaa.dll
